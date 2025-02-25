@@ -1,2 +1,4 @@
 # AIzhikong
-Python Script for word &amp; excel
+Python Script for word and excel
+
+By WangWencui & BaoJincheng
